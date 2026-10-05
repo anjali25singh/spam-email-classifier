@@ -35,8 +35,8 @@ A GPU (e.g., Google Colab T4) is recommended for the DistilBERT part.
 ## Results
 | Model | Accuracy | Precision | Recall | F1 |
 |-------|----------|-----------|--------|----|
-| Logistic Regression | - | - | - | - |
-| Naive Bayes | - | - | - | - |
+| Logistic Regression | 0.9661 | 0.8298 | 0.9141 | 0.8699 |
+| Naive Bayes | 0.9748 | 1.0000 | 0.7969 | 0.8870 |
 | DistilBERT | - | - | - | - |
 
 *(Fill in after running the code.)*
